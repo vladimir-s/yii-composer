@@ -1,0 +1,8 @@
+vendor/
+public_html/assets/*
+!public_html/assets/.gitignore
+public_html/protected/runtime/*
+!public_html/protected/runtime/.gitignore
+public_html/protected/data/*.db
+public_html/uploads/*
+!public_html/uploads/.gitignore

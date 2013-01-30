@@ -1,0 +1,6 @@
+{
+    "require": {
+        "yiisoft/yii": "dev-master",
+        "imagine/Imagine": "dev-master"
+    }
+}
